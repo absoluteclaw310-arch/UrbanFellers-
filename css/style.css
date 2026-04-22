@@ -78,7 +78,7 @@ nav ul li a:hover {
     background: url('/assets/images/hero-final.jpg');
     background-size: cover;
     background-position: center;
-    height: 80vh;
+    height: 40vh;
     display: flex;
     align-items: center;
     justify-content: center;
